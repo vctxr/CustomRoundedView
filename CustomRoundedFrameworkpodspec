@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "CustomRoundedFramework"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "Custom rounded corner for your UIView component added dependency."
   spec.description  = "Rounded framework is a library to create custom corner for your UIView component."
 
